@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lawrence Yoma</h1>
-<h3 align="center">A FrontEnd React JS Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devyoma&label=Profile%20views&color=0e75b6&style=flat" alt="devyoma" /> </p>
+<h3 align="center">A FrontEnd React JS Developer.</h3>
 
 - 🌱 I’m currently learning **Javascripts and React JS**
+
+- 🤝 I’m looking to get my first job in Tech **getting UI Frontend React JS specific roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevYoma](https://github.com/DevYoma)
 
@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyoma&show_icons=true&locale=en&layout=compact" alt="devyoma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyoma&show_icons=true&locale=en" alt="devyoma" /></p>
+
