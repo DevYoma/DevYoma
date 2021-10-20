@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Yoma</h1>
 <h3 align="center">A FrontEnd React JS Developer.</h3>
 
-- 🌱 I’m currently learning **Javascripts and React JS**
+- 🌱 I’m currently working with **Javascripts and React JS**
 
 - 🤝 I’m looking to get my first job in Tech **getting UI Frontend React JS specific roles**
 
