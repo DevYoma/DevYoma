@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to get my first job in Tech **getting UI Frontend React JS specific roles**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevYoma](https://github.com/DevYoma)
+- 👨‍💻 My portfolio site is at [https://devyoma.netlify.app](https://devyoma.netlify.app)
 
 - 📝 I regularly write articles on [https://devyoma.hashnode.dev/](https://devyoma.hashnode.dev/)
 
