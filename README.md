@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lawrence Yoma</h1>
+<h1 align="center">Hi 👋, I'm Yoma</h1>
 <h3 align="center">A FrontEnd React JS Developer.</h3>
 
 - 🌱 I’m currently working with **Javascript and React JS**
