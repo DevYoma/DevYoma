@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio is available at [https://devyoma.netlify.app](https://devyoma.netlify.app)
 
-- 📝 I regularly write articles on [https://devyoma.hashnode.dev/](https://devyoma.hashnode.dev/)
+- 📝 I regularly write articles on [dev.to](https://dev.to/devyoma)
 
 - 📫 You can reach me at **Lawrenceyoma@gmail.com**
 
