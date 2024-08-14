@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yoma</h1>
-<h3 align="center">A FrontEnd React JS Developer.</h3>
+<h3 align="center">Frontend Engineer || Technical Writer</h3>
 
-- 🌱 I’m currently working with **Javascript and React JS**
+- 🛠️ I work primarily with **TypeScript and React JS** but can learn and do what is needed to get the job done.
 
-- 🤝 I’m looking to get my first job in Tech **getting UI Frontend React JS specific roles**
+- 🛠️ I love building digital products, contributing to open source, and solving real-life problems.
 
-- 👨‍💻 My portfolio site is at [https://devyoma.netlify.app](https://devyoma.netlify.app)
+- ✍️ I enjoy writing about **technical topics** and sharing my knowledge on frontend development.
+
+- 👨‍💻 My portfolio is available at [https://devyoma.netlify.app](https://devyoma.netlify.app)
 
 - 📝 I regularly write articles on [https://devyoma.hashnode.dev/](https://devyoma.hashnode.dev/)
 
-- 📫 How to reach me **Lawrenceyoma@gmail.com**
+- 📫 You can reach me at **Lawrenceyoma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
