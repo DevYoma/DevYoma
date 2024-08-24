@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoma</h1>
 <h3 align="center">Frontend Engineer || Technical Writer</h3>
 
-- 🛠️ I work primarily with **TypeScript and React JS** but can learn and do what is needed to get the job done.
+- 🛠️ I work primarily with **TypeScript and React JS**. I am currently learning **Astro** but can learn and do what is needed to get the job done.
 
 - 🛠️ I love building digital products, contributing to open source, and solving real-life problems.
 
